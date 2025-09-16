@@ -125,7 +125,7 @@
 
 ```bash
 # 克隆项目
-git clone [your-repo-url]
+git clone https://github.com/dafanshu520/vue-hot-news.git
 
 # 进入项目目录
 cd vue-hot-news
