@@ -54,9 +54,9 @@
     <td align="center">
       <img width="200" alt="分类页面" src="https://github.com/user-attachments/assets/16fe04fd-d624-4b02-8d75-55ce750251b1" />
       <br>
-      <b>📂 分类页面</b>
+      <b>📂 优化用户体验</b>
       <br>
-      <em>多板块切换</em>
+      <em>一键返回顶部</em>
     </td>
     <td align="center">
       <img width="200" alt="收藏页面" src="https://github.com/user-attachments/assets/20f193ad-904a-4b70-beb9-97b60b7ba01f" />
