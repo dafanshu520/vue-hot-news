@@ -131,13 +131,13 @@ git clone [your-repo-url]
 cd vue-hot-news
 
 # 安装依赖
-npm install
+pnpm install
 
 # 启动开发服务器
-npm run dev
+pnpm run dev
 
 # 构建生产版本
-npm run build
+pnpm run build
 ```
 
 ## 📄 许可证
