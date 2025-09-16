@@ -1,4 +1,4 @@
-# 🔥 热点新闻
+# 🔥 每日热点新闻
 
 <div align="center">
   <img width="800" height="600" alt="vue-hot-news 主界面" src="https://github.com/user-attachments/assets/29e2affa-68d7-415d-863f-d16efef4410c" />
