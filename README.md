@@ -59,7 +59,7 @@
       <em>一键返回顶部</em>
     </td>
     <td align="center">
-      <img width="200" alt="收藏页面" src="https://github.com/user-attachments/assets/20f193ad-904a-4b70-beb9-97b60b7ba01f" />
+      <img width="200" alt="收藏页面" src="https://github.com/user-attachments/assets/67157f64-db8d-48a3-a243-786cb0791b07" />
       <br>
       <b>⭐ 收藏页面</b>
       <br>
